@@ -1,0 +1,17 @@
+https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9
+
+
+react-flask
+
+
+pyenv global 3.6.3
+
+export PATH="/Users/javier/.pyenv/shims:${PATH}"
+
+pip install -r requirements.txt
+
+
+flask run
+
+
+curl -X GET http://127.0.0.1:5000/flask/hello
