@@ -12,6 +12,8 @@ pip install -r requirements.txt
 
 
 flask run
-
-
 curl -X GET http://127.0.0.1:5000/flask/hello
+
+
+npm start
+http://localhost:3000/
