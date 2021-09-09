@@ -12,7 +12,7 @@ api = Api(app)
 def serve(path):
     app.logger.warning('Accessing %s', path)
     app.logger.warning('Static folder %s', app.static_folder)
-    return send_from_directory(static_folder, 'index.html')
+    return send_from_directory(app.static_folder, 'index.html')
 
 api.add_resource(HelloApiHandler, '/flask/hello')
 
