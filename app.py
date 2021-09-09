@@ -9,7 +9,7 @@ api = Api(app)
 
 @app.route("/", defaults={'path':''})
 def serve(path):
-    app.logger.info('Accessing %s', path)
+    app.logger.warning('Accessing %s', path)
     return send_from_directory(app.static_folder,'index.html')
 
 api.add_resource(HelloApiHandler, '/flask/hello')
