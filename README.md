@@ -62,7 +62,7 @@ The project is deployed at [https://flask-react-tutorial-sep-2021.herokuapp.com/
 
 
 ### References
-* [How To Build & Deploy a React + Flask App] (https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9) by Ran (Reine)
+* [How To Build & Deploy a React + Flask App](https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9) by Ran (Reine)
 
 * [Flask send_from_directory returns 404 for certain filenames](https://stackoverflow.com/questions/65171961/flask-send-from-directory-returns-404-for-certain-filenames) in Stack Overflow
 
