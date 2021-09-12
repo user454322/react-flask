@@ -1,5 +1,5 @@
 # Flask - React tutorial
-Folliwing the tutorial [How To Build & Deploy a React + Flask App] (https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9) by 
+Folliwing the tutorial [How To Build & Deploy a React + Flask App](https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9) by 
 Ran (Reine)
 
 The backend, i.e., the API uses Flask and the frontend uses React.  
